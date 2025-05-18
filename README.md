@@ -11,4 +11,6 @@ A collection of mini projects I completed while learning through [freeCodeCamp.o
 - JavaScript Algorithms and Data Structures
 
 Each subfolder contains the corresponding challenge and solution files (HTML/CSS/JS).
+
 -> Will be updated over time with new exercises I've done!
+
